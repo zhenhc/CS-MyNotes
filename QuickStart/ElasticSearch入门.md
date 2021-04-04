@@ -130,7 +130,7 @@ public class DiscussPost {
 }
 ```
 
-4. 声明一个接口继承ElasticsearchRepository,不用声明任何方法和属性
+4. 声明一个接口继承ElasticsearchRepository,不用声明任何的方法和属性
 
 ```java
 package com.nowcoder.community.dao.elasticsearch;
